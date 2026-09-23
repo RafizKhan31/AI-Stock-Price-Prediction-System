@@ -959,3 +959,7 @@ Past market behavior does not guarantee future results.
 The author is not responsible for financial losses resulting from decisions made using this software.
 
 Use it to learn machine learning, not to outsource your financial decisions to a Random Forest that has never even paid an electricity bill.
+
+## Author
+
+Md Rafej Khan
